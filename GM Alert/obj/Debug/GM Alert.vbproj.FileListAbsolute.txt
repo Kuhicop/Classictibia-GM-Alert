@@ -1,0 +1,12 @@
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.vbprojAssemblyReference.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM_Alert.Form1.resources
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM_Alert.Resources.resources
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.vbproj.GenerateResource.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.vbproj.CoreCompileInputs.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Debug\GM Alert.exe.config
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Debug\GM Alert.exe
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Debug\GM Alert.pdb
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Debug\GM Alert.xml
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.exe
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.xml
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Debug\GM Alert.pdb

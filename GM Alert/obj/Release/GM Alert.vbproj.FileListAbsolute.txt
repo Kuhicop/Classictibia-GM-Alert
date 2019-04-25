@@ -1,0 +1,32 @@
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Release\GM Alert.exe.config
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Release\GM Alert.exe
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Release\GM Alert.pdb
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Release\GM Alert.xml
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM_Alert.Form1.resources
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM_Alert.Resources.resources
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.GenerateResource.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.CoreCompileInputs.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.exe
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.xml
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.pdb
+C:\Users\adri\Desktop\GM Alert\GM Alert\bin\Release\MySql.Data.dll
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.vbprojAssemblyReference.cache
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM_Alert.Login.resources
+C:\Users\adri\Desktop\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.CopyComplete
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\GM Alert.exe.config
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\GM Alert.exe
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\GM Alert.pdb
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\GM Alert.xml
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\MySql.Data.dll
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\Google.Protobuf.dll
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\bin\Release\MySql.Data.xml
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.vbprojAssemblyReference.cache
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM_Alert.Form1.resources
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM_Alert.Login.resources
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM_Alert.Resources.resources
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.GenerateResource.cache
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.CoreCompileInputs.cache
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.vbproj.CopyComplete
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.exe
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.xml
+C:\Users\kuhi\Desktop\kuhiscripts.com\GM Alert\GM Alert\obj\Release\GM Alert.pdb
